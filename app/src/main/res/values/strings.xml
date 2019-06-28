@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Healthknowledge</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zhongshi">健康知识重视程度</string>
+    <string name="tiyu">健康知识体育爱好</string>
+    <string name="xinli">健康知识心理</string>
+    <string name="jibing">健康知识疾病</string>
+    <string name="jiuzhen">健康知识就诊</string>
+    <string name="weisheng">健康知识卫生</string>
+    <string name="xingwei">健康知识行为</string>
+    <string name="yangsheng">健康知识养生</string>
+    <string name="jianfei">健康知识减肥</string>
+    <string name="android_count_text">以下是学生对健康知识的重视程度</string>
+    <string name="java_count_text">以下是体育爱好的分布情况</string>
+</resources>
